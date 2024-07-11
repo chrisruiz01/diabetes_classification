@@ -1,2 +1,5 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+
+# Ignore assets directory (if it contains files you don't want to track)
+assets/
